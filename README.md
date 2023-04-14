@@ -1,4 +1,4 @@
-# mini-router
+# mini-router1
 
 ## Project setup
 ```
@@ -17,4 +17,3 @@ pnpm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# mini-router
